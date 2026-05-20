@@ -1,6 +1,6 @@
 ﻿# Global B2B Ideas Database (SK)
 
-**Summary**: A central "base" for tracking and comparing 72 B2B Spatial AI ideas scored for global market potential. Reoriented from local Pakistani focus to international scalability using [[b2b-eval-criteria-salman]] framework.
+**Summary**: A central "base" for tracking and comparing 73 B2B Spatial AI ideas scored for global market potential. Reoriented from local Pakistani focus to international scalability using [[b2b-eval-criteria-salman]] framework.
 
 **Framework**: [[b2b-eval-criteria-salman]]
 
@@ -122,9 +122,15 @@
 | [[crime-scene-reconstruction]] | US, UK, Japan      |    8    |    7     |  8   |    High     | Draft  |
 | [[vocational-ar-training]]     | Germany, Japan, US |    8    |    8     |  8   |    High     | Draft  |
 
+### Sports & Athletics
+
+| Idea | Primary Markets | Quality | Adoption | Moat | Scalability | Status |
+|---|:---|:---:|:---:|:---:|:---:|:---|
+| [[sports-coaching-ar-assistant]] | US, UK, Australia | 9 | 8 | 9 | High | Draft |
+
 ---
 
-## Top 10 Global Opportunities
+## Top 11 Global Opportunities
 
 | Rank | Idea                                 | Quality | Adoption | Moat | Total | Scalability | Key Markets                   |
 | :--: | ------------------------------------ | :-----: | :------: | :--: | :---: | :---------: | :---------------------------- |
@@ -136,8 +142,9 @@
 |  6   | [[medical-rehabilitation-assistant]] |    9    |    8     |  9   |  26   |    High     | US, EU, Japan                 |
 |  7   | [[aircraft-engine-inspection]]       |    9    |    8     |  9   |  26   |    High     | US, UK, Singapore             |
 |  8   | [[industrial-digital-twin]]          |    9    |    8     |  9   |  26   |    High     | Germany, US, Japan            |
-|  9   | [[classroom-tutor-spatial]]          |    9    |    8     |  8   |  25   |    High     | US, China, Germany            |
-|  10  | [[defense-maintenance-training]]     |    9    |    6     |  10  |  25   |   Medium    | US, UK, Israel                |
+|  9   | [[sports-coaching-ar-assistant]]     |    9    |    8     |  9   |  26   |    High     | US, UK, Australia             |
+|  10  | [[classroom-tutor-spatial]]          |    9    |    8     |  8   |  25   |    High     | US, China, Germany            |
+|  11  | [[defense-maintenance-training]]     |    9    |    6     |  10  |  25   |   Medium    | US, UK, Israel                |
 
 
 

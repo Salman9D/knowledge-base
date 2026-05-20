@@ -1,6 +1,6 @@
 # B2B Evaluation Criteria — Synthesized Framework (U. Athar)
 
-**Summary**: A synthesized, best-of evaluation framework for scoring the 72 B2B AR/VR/MR/Spatial AI problem statements. Combines technical feasibility (u-ashraf), local deployment realism (L-raza), global scaling constraints (G-raza), and commercial strategy (salman), with new criteria for vertical specificity, data moat, regional leverage, and the two-pronged research-plus-commercial vector.
+**Summary**: A synthesized, best-of evaluation framework for scoring the 73 B2B AR/VR/MR/Spatial AI problem statements. Combines technical feasibility (u-ashraf), local deployment realism (L-raza), global scaling constraints (G-raza), and commercial strategy (salman), with new criteria for vertical specificity, data moat, regional leverage, and the two-pronged research-plus-commercial vector.
 
 **Sources**: [[b2b-eval-criteria-u-ashraf]], [[b2b-eval-criteria-G-raza]], [[b2b-eval-criteria-L-raza]], [[b2b-eval-criteria-salman]], [[pakistan-adoption-and-moat-analysis]], [[spatial-ai-sync-2026-05-07]]
 
@@ -25,7 +25,7 @@ An idea that is strong on all four properties is a top-priority candidate. An id
 
 ## Scoring Framework
 
-All 72 ideas are scored on exactly three dimensions: **Quality**, **Adoption**, and **Moat**. Each is scored **1–10**. A balanced score above 7 across all three dimensions indicates a strong candidate. A single very high score does not compensate for a very low score elsewhere.
+All 73 ideas are scored on exactly three dimensions: **Quality**, **Adoption**, and **Moat**. Each is scored **1–10**. A balanced score above 7 across all three dimensions indicates a strong candidate. A single very high score does not compensate for a very low score elsewhere.
 
 ---
 
@@ -160,7 +160,7 @@ An idea with any of the following should be automatically deprioritized unless t
 
 ## Scoring Worksheet
 
-Use this template for each of the 72 ideas during a scoring pass:
+Use this template for each of the 73 ideas during a scoring pass:
 
 ```
 **Idea**: [Name]

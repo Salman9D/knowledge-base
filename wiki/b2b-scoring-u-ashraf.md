@@ -1,7 +1,7 @@
 # B2B Idea Scoring - Technical Engineering Perspective
 
 ## Summary
-Technical evaluation of 72 B2B Spatial AI ideas focusing on implementation feasibility, deployment complexity, and technical defensibility.
+Technical evaluation of 73 B2B Spatial AI ideas focusing on implementation feasibility, deployment complexity, and technical defensibility.
 
 Scoring by: Usama Ashraf
 Framework: [[b2b-evaluation-criteria-technical]]
@@ -77,6 +77,7 @@ Last updated: 2026-05-15
 | [[solar-health-monitor]] | 8 | 8 | 9 | 25 | CV + thermal imaging on a tablet/drone. High-growth market. Strong moat from local dust/pollution data. |
 | [[spinal-fusion-xray-vision]] | 5 | 5 | 9 | 19 | Requires real-time instrument tracking and registration with pre-op scans. Medically high-risk. |
 | [[sports-apparel-alignment]] | 9 | 8 | 9 | 26 | Simple CV with AR overlay on a fixed tablet rig. High value, clear ROI. Strong niche data moat. |
+| [[sports-coaching-ar-assistant]] | 8 | 8 | 9 | 25 | Markerless multi-person pose estimation (MMPose/MediaPipe) is mature; fixed-camera tablet MVP achievable in 6–8 weeks. Per-athlete longitudinal biomechanics baselines and sport-specific injury models create a compounding technical moat. |
 | [[sports-goods-stitching]] | 8 | 8 | 8 | 24 | AR overlay for stitch guidance on a tablet. Good application for artisanal-scale manufacturing. |
 | [[subsurface-utility-mapping]] | 6 | 6 | 8 | 20 | Fusing GPR and GIS data is a complex data science problem. Requires specialized hardware. |
 | [[surgical-forging-assistant]] | 8 | 8 | 9 | 25 | CV for color temperature analysis. Tablet mounted near forge. High value, strong niche data moat. |

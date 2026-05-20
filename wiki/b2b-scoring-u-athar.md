@@ -1,6 +1,6 @@
 # B2B Ideas Scoring — Usama Athar
 
-**Summary**: Scores for all 72 B2B Spatial AI ideas, evaluated using [[b2b-eval-criteria-u-athar]]. Covers Idea Quality (problem value + spatial AI fit), Adoption (deployment friction in Pakistan), and Moat (data flywheel + defensibility), each on a 1–10 scale. A Four-Property Filter and disqualifier check are applied per idea.
+**Summary**: Scores for all 73 B2B Spatial AI ideas, evaluated using [[b2b-eval-criteria-u-athar]]. Covers Idea Quality (problem value + spatial AI fit), Adoption (deployment friction in Pakistan), and Moat (data flywheel + defensibility), each on a 1–10 scale. A Four-Property Filter and disqualifier check are applied per idea.
 
 **Sources**: [[b2b-eval-criteria-u-athar]], all files in `wiki/b2b-ideas/`
 
@@ -10,80 +10,81 @@
 
 ## Scoring Summary Table
 
-| #   | Idea (filename)                  | Quality | Adoption | Moat | Total |
-| --- | -------------------------------- | ------- | -------- | ---- | ----- |
-| 1   | aircraft-engine-inspection       | 9       | 7        | 9    | 25    |
-| 2   | auto-parts-verification          | 8       | 7        | 9    | 24    |
-| 3   | avionics-wiring-assembly         | 9       | 8        | 8    | 25    |
-| 4   | brick-kiln-monitoring            | 7       | 5        | 7    | 19    |
-| 5   | brownfield-digital-twins         | 8       | 8        | 8    | 24    |
-| 6   | cell-tower-alignment-diagnostics | 8       | 8        | 8    | 24    |
-| 7   | cement-kiln-inspection           | 7       | 6        | 8    | 21    |
-| 8   | classroom-tutor-spatial          | 8       | 7        | 7    | 22    |
-| 9   | cold-chain-warehouse-slotting    | 8       | 8        | 8    | 24    |
-| 10  | construction-bim-tracker         | 10      | 7        | 9    | 26    |
-| 11  | construction-cost-intelligence   | 8       | 7        | 8    | 23    |
-| 12  | construction-progress-monitoring | 9       | 8        | 8    | 25    |
-| 13  | container-damage-logger          | 8       | 9        | 7    | 24    |
-| 14  | cookware-casting-scanner         | 8       | 7        | 9    | 24    |
-| 15  | crime-scene-reconstruction       | 8       | 7        | 8    | 23    |
-| 16  | crop-disease-scouting            | 9       | 9        | 9    | 27    |
-| 17  | cutlery-finishing-guide          | 7       | 7        | 9    | 23    |
-| 18  | data-center-rack-guidance        | 8       | 8        | 8    | 24    |
-| 19  | deepwater-bop-diagnostics        | 9       | 6        | 9    | 24    |
-| 20  | defense-maintenance-training     | 9       | 5        | 10   | 24    |
-| 21  | denim-wash-consistency           | 8       | 8        | 8    | 24    |
-| 22  | diabetic-ulcer-monitor           | 9       | 7        | 9    | 25    |
-| 23  | facility-management-optimization | 7       | 7        | 8    | 22    |
-| 24  | fan-motor-winding-qc             | 8       | 7        | 9    | 24    |
-| 25  | fiber-splice-vision              | 8       | 8        | 8    | 24    |
-| 26  | fruit-ripeness-grading           | 9       | 8        | 8    | 25    |
-| 27  | glove-seam-inspector             | 8       | 8        | 9    | 25    |
-| 28  | grain-export-grading             | 9       | 8        | 7    | 24    |
-| 29  | hazardous-goods-segregation      | 8       | 8        | 7    | 23    |
-| 30  | hazmat-spill-simulation          | 8       | 8        | 8    | 24    |
-| 31  | hvac-maintenance-copilot         | 8       | 8        | 8    | 24    |
-| 32  | industrial-digital-twin          | 9       | 7        | 9    | 25    |
-| 33  | interior-designer-assistant      | 7       | 9        | 7    | 23    |
-| 34  | jet-landing-gear-training        | 9       | 7        | 9    | 25    |
-| 35  | kiryana-shelf-monitor            | 7       | 8        | 7    | 22    |
-| 36  | kitchen-operations-assistant     | 7       | 8        | 7    | 22    |
-| 37  | last-mile-condition-log          | 7       | 9        | 7    | 23    |
-| 38  | leather-sorting-optimizer        | 9       | 7        | 8    | 24    |
-| 39  | livestock-health-monitoring      | 8       | 8        | 8    | 24    |
-| 40  | loss-control-hazard-scoring      | 8       | 7        | 9    | 24    |
-| 41  | maintenance-technician-assistant | 8       | 8        | 9    | 25    |
-| 42  | medical-rehabilitation-assistant | 9       | 6        | 9    | 24    |
-| 43  | mep-routing-clash-resolution     | 8       | 8        | 7    | 23    |
-| 44  | navigation-assistant-blind       | 9       | 8        | 8    | 25    |
-| 45  | nuclear-decommissioning          | 7       | 3        | 10   | 20    |
-| 46  | oncology-surgical-planning       | 9       | 6        | 9    | 24    |
-| 47  | pediatric-cardio-navigation      | 9       | 7        | 9    | 25    |
-| 48  | pharma-gmp-compliance            | 9       | 6        | 10   | 25    |
-| 49  | port-tally-assistant             | 9       | 8        | 7    | 24    |
-| 50  | power-grid-repair                | 8       | 6        | 10   | 24    |
-| 51  | real-estate-visualization        | 8       | 9        | 7    | 24    |
-| 52  | remote-expert-utilities          | 8       | 7        | 9    | 24    |
-| 53  | remote-surgical-mentorship       | 9       | 5        | 8    | 22    |
-| 54  | retail-display-compliance        | 8       | 9        | 7    | 24    |
-| 55  | scrap-metal-sorting              | 8       | 7        | 9    | 24    |
-| 56  | seed-purity-vision               | 8       | 7        | 9    | 24    |
-| 57  | semiconductor-euv-maintenance    | 9       | 6        | 9    | 24    |
-| 58  | solar-health-monitor             | 8       | 8        | 9    | 25    |
-| 59  | spinal-fusion-xray-vision        | 9       | 6        | 9    | 24    |
-| 60  | sports-apparel-alignment         | 9       | 7        | 9    | 25    |
-| 61  | sports-goods-stitching           | 7       | 8        | 8    | 23    |
-| 62  | subsurface-utility-mapping       | 8       | 7        | 8    | 23    |
-| 63  | surgical-forging-assistant       | 8       | 8        | 9    | 25    |
-| 64  | surgical-instrument-qc           | 9       | 8        | 10   | 27    |
-| 65  | telecom-tower-maintenance        | 9       | 8        | 9    | 26    |
-| 66  | termite-detection-vision         | 7       | 7        | 10   | 24    |
-| 67  | textile-quality-control          | 8       | 9        | 9    | 26    |
-| 68  | truck-loading-optimizer          | 8       | 8        | 7    | 23    |
-| 69  | underground-mine-safety          | 9       | 7        | 9    | 25    |
-| 70  | urban-planning-smart-cities      | 8       | 6        | 8    | 22    |
-| 71  | vocational-ar-training           | 8       | 7        | 8    | 23    |
-| 72  | warehouse-vision-picker          | 8       | 8        | 7    | 23    |
+| # | Idea (filename) | Quality | Adoption | Moat | Total |
+|---|----------------|---------|----------|------|-------|
+| 1 | aircraft-engine-inspection | 9 | 7 | 9 | 25 |
+| 2 | auto-parts-verification | 8 | 7 | 9 | 24 |
+| 3 | avionics-wiring-assembly | 9 | 8 | 8 | 25 |
+| 4 | brick-kiln-monitoring | 7 | 5 | 7 | 19 |
+| 5 | brownfield-digital-twins | 8 | 8 | 8 | 24 |
+| 6 | cell-tower-alignment-diagnostics | 8 | 8 | 8 | 24 |
+| 7 | cement-kiln-inspection | 7 | 6 | 8 | 21 |
+| 8 | classroom-tutor-spatial | 8 | 7 | 7 | 22 |
+| 9 | cold-chain-warehouse-slotting | 8 | 8 | 8 | 24 |
+| 10 | construction-bim-tracker | 10 | 7 | 9 | 26 |
+| 11 | construction-cost-intelligence | 8 | 7 | 8 | 23 |
+| 12 | construction-progress-monitoring | 9 | 8 | 8 | 25 |
+| 13 | container-damage-logger | 8 | 9 | 7 | 24 |
+| 14 | cookware-casting-scanner | 8 | 7 | 9 | 24 |
+| 15 | crime-scene-reconstruction | 8 | 7 | 8 | 23 |
+| 16 | crop-disease-scouting | 9 | 9 | 9 | 27 |
+| 17 | cutlery-finishing-guide | 7 | 7 | 9 | 23 |
+| 18 | data-center-rack-guidance | 8 | 8 | 8 | 24 |
+| 19 | deepwater-bop-diagnostics | 9 | 6 | 9 | 24 |
+| 20 | defense-maintenance-training | 9 | 5 | 10 | 24 |
+| 21 | denim-wash-consistency | 8 | 8 | 8 | 24 |
+| 22 | diabetic-ulcer-monitor | 9 | 7 | 9 | 25 |
+| 23 | facility-management-optimization | 7 | 7 | 8 | 22 |
+| 24 | fan-motor-winding-qc | 8 | 7 | 9 | 24 |
+| 25 | fiber-splice-vision | 8 | 8 | 8 | 24 |
+| 26 | fruit-ripeness-grading | 9 | 8 | 8 | 25 |
+| 27 | glove-seam-inspector | 8 | 8 | 9 | 25 |
+| 28 | grain-export-grading | 9 | 8 | 7 | 24 |
+| 29 | hazardous-goods-segregation | 8 | 8 | 7 | 23 |
+| 30 | hazmat-spill-simulation | 8 | 8 | 8 | 24 |
+| 31 | hvac-maintenance-copilot | 8 | 8 | 8 | 24 |
+| 32 | industrial-digital-twin | 9 | 7 | 9 | 25 |
+| 33 | interior-designer-assistant | 7 | 9 | 7 | 23 |
+| 34 | jet-landing-gear-training | 9 | 7 | 9 | 25 |
+| 35 | kiryana-shelf-monitor | 7 | 8 | 7 | 22 |
+| 36 | kitchen-operations-assistant | 7 | 8 | 7 | 22 |
+| 37 | last-mile-condition-log | 7 | 9 | 7 | 23 |
+| 38 | leather-sorting-optimizer | 9 | 7 | 8 | 24 |
+| 39 | livestock-health-monitoring | 8 | 8 | 8 | 24 |
+| 40 | loss-control-hazard-scoring | 8 | 7 | 9 | 24 |
+| 41 | maintenance-technician-assistant | 8 | 8 | 9 | 25 |
+| 42 | medical-rehabilitation-assistant | 9 | 6 | 9 | 24 |
+| 43 | mep-routing-clash-resolution | 8 | 8 | 7 | 23 |
+| 44 | navigation-assistant-blind | 9 | 8 | 8 | 25 |
+| 45 | nuclear-decommissioning | 7 | 3 | 10 | 20 |
+| 46 | oncology-surgical-planning | 9 | 6 | 9 | 24 |
+| 47 | pediatric-cardio-navigation | 9 | 7 | 9 | 25 |
+| 48 | pharma-gmp-compliance | 9 | 6 | 10 | 25 |
+| 49 | port-tally-assistant | 9 | 8 | 7 | 24 |
+| 50 | power-grid-repair | 8 | 6 | 10 | 24 |
+| 51 | real-estate-visualization | 8 | 9 | 7 | 24 |
+| 52 | remote-expert-utilities | 8 | 7 | 9 | 24 |
+| 53 | remote-surgical-mentorship | 9 | 5 | 8 | 22 |
+| 54 | retail-display-compliance | 8 | 9 | 7 | 24 |
+| 55 | scrap-metal-sorting | 8 | 7 | 9 | 24 |
+| 56 | seed-purity-vision | 8 | 7 | 9 | 24 |
+| 57 | semiconductor-euv-maintenance | 9 | 6 | 9 | 24 |
+| 58 | solar-health-monitor | 8 | 8 | 9 | 25 |
+| 59 | spinal-fusion-xray-vision | 9 | 6 | 9 | 24 |
+| 60 | sports-apparel-alignment | 9 | 7 | 9 | 25 |
+| 61 | sports-coaching-ar-assistant | 8 | 8 | 9 | 25 |
+| 62 | sports-goods-stitching | 7 | 8 | 8 | 23 |
+| 63 | subsurface-utility-mapping | 8 | 7 | 8 | 23 |
+| 64 | surgical-forging-assistant | 8 | 8 | 9 | 25 |
+| 65 | surgical-instrument-qc | 9 | 8 | 10 | 27 |
+| 66 | telecom-tower-maintenance | 9 | 8 | 9 | 26 |
+| 67 | termite-detection-vision | 7 | 7 | 10 | 24 |
+| 68 | textile-quality-control | 8 | 9 | 9 | 26 |
+| 69 | truck-loading-optimizer | 8 | 8 | 7 | 23 |
+| 70 | underground-mine-safety | 9 | 7 | 9 | 25 |
+| 71 | urban-planning-smart-cities | 8 | 6 | 8 | 22 |
+| 72 | vocational-ar-training | 8 | 7 | 8 | 23 |
+| 73 | warehouse-vision-picker | 8 | 8 | 7 | 23 |
 
 ---
 
@@ -640,7 +641,17 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: TOP PRIORITY — Sialkot is Pakistan's premier manufacturing export hub; data moat is export-contract-specific; pairs with glove-seam-inspector and sports-goods-stitching for a comprehensive Sialkot manufacturing QC platform.
 - Key Risk: Export contract pattern specifications change seasonally; model retraining cadence must keep up with new season garment patterns.
 
-### 61. sports-goods-stitching
+### 61. sports-coaching-ar-assistant
+- **Quality 8**: Markerless multi-person pose estimation (MMPose, MediaPipe) is technically mature; simultaneous tracking of all athletes on a field + per-player AR overlay in a fixed-camera tablet MVP is achievable in 6–8 weeks. Real-time smart glasses mode is a feasible second phase. Sport-specific biomechanics models (cricket bowling run-up, hockey deceleration mechanics) add meaningful research novelty.
+- **Adoption 8**: Sports academies and national federations (PCB, PHF) are accessible pilot partners with genuine need; tablet + fixed-camera setup is affordable and requires no athlete wearables; the coach's existing fieldside workflow naturally accommodates the tool. Smart glasses hardware is a cost friction point but tablet-first mode eliminates it for the MVP.
+- **Moat 9**: Longitudinal per-player biomechanics baselines — running mechanics, joint angles at peak speed, fatigue-signature gait drift, sport-specific injury precursors — compound with every session. Sport-specific models trained on Pakistani cricket and hockey player populations are not replicable by a global competitor without years of local training data access. Coach workflow integration (drill schemas, session summaries, per-athlete flag history) adds behavioral switching costs on top of the data flywheel.
+- Buildable: Strong | Testable locally: Strong | Big-Tech-safe: Strong | Data flywheel: Strong
+- Disqualifiers: None. Smart glasses hardware cost is a friction point for grassroots academies but tablet-first mode fully resolves it for the MVP.
+- **Recommendation**: High priority — clear spatial AI fit (multi-person real-time biomechanics is a genuinely novel AR application), accessible pilot pathway through PCB U-19 academy or PHF training camp, and a data moat that builds with every session. Positions Imagination AI / 9D as the "sports science democratizer" for academies that cannot afford GPS vest systems or VICON motion capture labs.
+- Key Risk: GPS vest analytics vendors (Catapult Sports, STATSports) could add a markerless vision layer to their existing platforms; differentiate on the AR overlay experience, zero-wearable athlete UX, and the depth of the per-player longitudinal baseline.
+- Suggested first step: Build a fixed-camera tablet prototype; run one session with PCB or PHF; measure pace tracking accuracy, coach time-to-feedback reduction, and athlete technique error detection rate.
+
+### 62. sports-goods-stitching
 - **Quality 7**: Panel alignment + stitch density uniformity monitoring for hand-stitched footballs and cricket bats is technically similar to glove-seam-inspector; the additional complexity is 3D curved surfaces (football panels) vs. flat seams.
 - **Adoption 8**: Major global brands (Adidas, Nike) source from Pakistan; batch rejections directly hit margins; existing manufacturing lines can accommodate camera mounts.
 - **Moat 8**: Assembly workflow data for specific sporting goods models (hand-stitched vs. thermo-molded) is defensible; model-specific stitch patterns differ between FIFA match balls, training balls, and cricket equipment.
@@ -649,7 +660,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: High priority as part of the Sialkot QC platform — bundle with glove-seam-inspector and sports-apparel-alignment for combined offering.
 - Key Risk: 3D curved surface inspection on hand-stitched footballs requires structured lighting or depth sensing; standard tablet camera may be insufficient for accurate curved-surface stitch counting.
 
-### 62. subsurface-utility-mapping
+### 63. subsurface-utility-mapping
 - **Quality 8**: Fusing GPR data + GIS records into AR "X-ray" view of buried utilities is technically sound; the key challenge is GPR signal interpretation in diverse Pakistani soil conditions (clay, rocky, waterlogged).
 - **Adoption 7**: Urban excavation contractors and utility companies (WASA, PTCL, SSGC) have clear safety and financial motivation; GPR rental adds to deployment cost.
 - **Moat 8**: Localized subsurface 3D data (as-built vs. as-mapped) + soil-to-utility depth model calibrated for Pakistani soil conditions is a genuinely defensible dataset.
@@ -658,7 +669,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: Medium priority — important safety application but high hardware cost barrier; consider a "data validation only" MVP that uses existing GIS records + historical photos before requiring GPR hardware.
 - Key Risk: Existing GIS utility maps in Pakistan are notoriously inaccurate; the system will frequently encounter "as-built" vs. "as-mapped" discrepancies that challenge the spatial fusion model.
 
-### 63. surgical-forging-assistant
+### 64. surgical-forging-assistant
 - **Quality 8**: Color temperature analysis of forging steel using specialized CV (calibrated for furnace lighting) to guide quenching timing is technically achievable; requires pyrometer-grade color temperature inference from camera data.
 - **Adoption 8**: Sialkot surgical instrument manufacturers are export-driven and motivated by international compliance; one batch rejection covers the cost of the tablet setup many times over.
 - **Moat 9**: Proprietary dataset of visual thermal markers mapped to specific Pakistani surgical steel chemistry (local scrap mix of 410/420 grade) is highly localized; a global model trained on German furnaces will not generalize to Sialkot workshop conditions.
@@ -667,7 +678,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: High priority — natural complement to surgical-instrument-qc for a complete Sialkot surgical manufacturing quality platform; share data collection efforts across both ideas.
 - Key Risk: Camera performance near high-temperature furnaces (radiant heat damage, thermal noise) requires ruggedized hardware; standard tablet cameras will degrade rapidly in forge environments.
 
-### 64. surgical-instrument-qc
+### 65. surgical-instrument-qc
 - **Quality 9**: Geometry verification + polish quality assessment + stamping check on surgical instruments against FDA/CE compliance standards is a well-defined precision CV task; micro-defect detection models exist for medical device inspection.
 - **Adoption 8**: Sialkot produces 70% of the world's surgical instruments; FDA/CE compliance is non-negotiable for export; manual QC is error-prone at scale; clear immediate ROI.
 - **Moat 10**: Highly specific dataset of surgical tool tolerances + manufacturing micro-defects unique to Sialkot's production processes is the highest-defensibility dataset in the manufacturing cluster; global medical device inspection tools don't have this niche covered.
@@ -676,7 +687,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: TOP PRIORITY — tied with crop-disease-scouting for the top spot; Sialkot is immediately accessible, FDA/CE compliance creates a non-negotiable buyer need, and the moat is a 10. Start here.
 - Key Risk: Achieving >99.5% precision (required for FDA/CE-grade QC) requires high-resolution imaging equipment beyond a standard tablet camera; dedicated inspection station hardware recommended.
 
-### 65. telecom-tower-maintenance
+### 66. telecom-tower-maintenance
 - **Quality 9**: Component identification + fault detection + remote NOC annotation for telecom tower maintenance via tablet AR is technically well-aligned with existing CV capabilities; carrier-specific component recognition is the key training challenge.
 - **Adoption 8**: Jazz, Telenor, Zong have massive rural tower networks with high technician turnover; tablet-based tool requires no specialized hardware and maps directly to existing field maintenance workflows.
 - **Moat 9**: Telecom asset fault history per carrier infrastructure (carrier-specific component aging patterns, failure frequencies by region) is a deeply local and proprietary dataset.
@@ -685,7 +696,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: TOP PRIORITY — solves a national-scale problem (rural tower maintenance with high technician turnover); immediate pilot opportunity with any major Pakistani telco; revenue through per-tower maintenance session licensing.
 - Key Risk: Carrier-specific component databases require data sharing agreements with the telco; carriers may be reluctant to share infrastructure data with a startup.
 
-### 66. termite-detection-vision
+### 67. termite-detection-vision
 - **Quality 7**: Visual detection of early-stage mud tubes and wood-surface infestation patterns via tablet camera is technically achievable; training data collection (photographing actual termite infestations) is the key challenge.
 - **Adoption 7**: Pest control companies can use this as a value-add inspection tool; DHA/Bahria Town housing estates are accessible pilot environments.
 - **Moat 10**: A visual catalog of Pakistani termite species' activity markers (Heterotermes indicola, Coptotermes heimi) is an extraordinarily specific biological dataset that no global model has; Pakistani termite species have unique visual signatures.
@@ -694,7 +705,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: Medium priority — extraordinary moat (10) but limited market size; consider as a feature within a broader "property inspection" platform rather than standalone product.
 - Key Risk: Termite detection requires confirmation from a professional pest control technician; liability if the system misses an active infestation and structural damage occurs.
 
-### 67. textile-quality-control
+### 68. textile-quality-control
 - **Quality 8**: Real-time fabric defect detection (threading defects, color variations, stains) on loom output via tablet or fixed camera rig is technically achievable; fabric inspection CV is a well-studied domain with commercial models available.
 - **Adoption 9**: Textile is Pakistan's largest export (~60%); quality rejections cost millions annually; large mills (Nishat, Interloop) are tech-forward and have IT infrastructure to integrate new tools.
 - **Moat 9**: Proprietary dataset of local fabric defects specific to Pakistani cotton varieties and loom configurations is genuinely defensible; Pakistani cotton has unique fiber characteristics that affect defect patterns differently from Egyptian or Pima cotton.
@@ -703,7 +714,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: TOP PRIORITY — Pakistan's largest export sector with immediate commercial opportunity; approach Nishat Mills or Interloop for a pilot; revenue through per-meter inspection licensing or monthly SLA.
 - Key Risk: Global textile inspection vendors are well-established; local solution must demonstrate measurably better defect detection on Pakistani cotton vs. global models to win contracts.
 
-### 68. truck-loading-optimizer
+### 69. truck-loading-optimizer
 - **Quality 8**: 3D cargo space measurement + parcel dimension estimation + optimal stacking suggestion via tablet AR is technically achievable; 3D bin packing algorithms are well-established; the CV challenge is reliable cargo space measurement in dusty truck environments.
 - **Adoption 8**: Mid-sized logistics firms are motivated by rising fuel costs; 10% improvement in truck fill rate = significant fuel savings; existing smartphone/tablet deployment requires no new hardware.
 - **Moat 7**: Dataset of irregular Pakistani parcel types + local truck dimension profiles (Hino, Mazda, Isuzu configurations) is moderately defensible but replicable.
@@ -712,7 +723,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: Medium priority — viable and deployable but moderate moat; consider as a module within last-mile-condition-log + warehouse-vision-picker for a complete logistics platform.
 - Key Risk: Amazon, Alibaba, and large logistics platforms have highly optimized packing algorithms; the local differentiation (Pakistani truck/parcel types) must be clearly demonstrated.
 
-### 69. underground-mine-safety
+### 70. underground-mine-safety
 - **Quality 9**: SLAM-based digital twin generation of underground mines + IoT gas/temperature sensor integration + predictive hazard modeling is technically ambitious; GPS-denied SLAM in confined underground spaces is achievable with LiDAR-based systems.
 - **Adoption 7**: Large mining companies (PMDC coal, Reko Diq, Duddar zinc) have high ROI for safety; hardware costs and ruggedization requirements are significant deployment barriers.
 - **Moat 9**: Longitudinal hazard data from active mine excavations (pre- and post-incident spatial data) is an extraordinarily rare and defensible dataset; no generic AI model can be trained on this data without physical mine access.
@@ -721,7 +732,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: High priority as a strategic long-term play — Pakistan's mineral wealth and mining safety record make this nationally significant; pursue PMDC or Barrick Gold (Reko Diq) as a pilot partner.
 - Key Risk: Mine environments are GPS-denied, dusty, and dynamically changing; SLAM drift in long underground tunnels is a known accuracy challenge that requires careful sensor calibration.
 
-### 70. urban-planning-smart-cities
+### 71. urban-planning-smart-cities
 - **Quality 8**: City-scale digital twin integrating GIS + IoT + architectural models + scenario simulation (traffic, energy, heat islands) is technically ambitious but achievable with existing smart city platforms (CityEngine, Esri ArcGIS).
 - **Adoption 6**: Requires significant government cooperation and integration of diverse municipal data sources; Pakistan's smart city initiatives (Lahore, Islamabad) are moving slowly due to bureaucratic procurement cycles.
 - **Moat 8**: Proprietary geo-spatial urban datasets + infrastructure behavior models + institutional lock-in as the central municipal data repository creates a durable moat; once a city's planning workflows depend on the platform, switching is extremely costly.
@@ -730,7 +741,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: Medium priority — high strategic value but long sales cycle; approach Lahore's Smart City initiative or Islamabad Capital Territory Administration for a pilot; position as the "Pakistan-specific" smart city solution.
 - Key Risk: Smart city contracts in Pakistan are often captured by politically connected large IT integrators; independent startup entry is difficult without government connections.
 
-### 71. vocational-ar-training
+### 72. vocational-ar-training
 - **Quality 8**: VR simulation of workshop environments (lathe, welding, electrical) + AR technique assessment (hand steadiness, tool approach angle) + objective competency certification is technically achievable; haptic feedback integration is an optional enhancement.
 - **Adoption 7**: TEVTA, NAVTTC, and large manufacturers have clear training needs; adoption depends on government/NGO funding or direct B2B sales to manufacturing firms for internal training programs.
 - **Moat 8**: Objective technique assessment data (instrumented training sessions + industry-validated competency metrics) + certification standard status (if achieved) creates institutional lock-in; curriculum modules co-developed with industry create partnership-based barriers.
@@ -739,7 +750,7 @@ Rating: **Strong / Partial / Weak / None**
 - **Recommendation**: High priority as a social impact + commercial play — Pakistan's youth bulge and vocational skills gap are pressing national problems; approach large manufacturers (Millat Tractors, Atlas Honda) for in-house training platform first, then scale to TEVTA.
 - Key Risk: Government vocational training institutions (TEVTA) have 3–5 year procurement cycles and often prefer established local vendors; private manufacturing sector sales are faster but smaller scale.
 
-### 72. warehouse-vision-picker
+### 73. warehouse-vision-picker
 - **Quality 8**: Hands-free visual routing + item verification via CV for warehouse picking in micro-fulfillment centers is technically mature; smart glasses are preferred but cart-mounted tablet is a viable lower-cost alternative.
 - **Adoption 8**: E-commerce growth (Daraz, Munchies) is creating demand for micro-fulfillment centers; existing warehouse technology is minimal in Pakistan; AR picking tools provide clear speed and accuracy improvements.
 - **Moat 7**: SKU visual catalog at scale + warehouse layout optimization from thousands of picking hours is moderately defensible; Amazon's warehouse vision technology and global WMS providers are directly adjacent.

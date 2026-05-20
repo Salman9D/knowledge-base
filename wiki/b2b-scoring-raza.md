@@ -20,6 +20,7 @@
 | [[spinal-fusion-xray-vision]] | Healthcare & Medical | 9 | 9 | 8 | **26** | 9 | 9 | 4 | **22** |
 | [[medical-rehabilitation-assistant]] | Healthcare & Medical | 9 | 9 | 8 | **26** | 9 | 9 | 4 | **22** |
 | [[leather-sorting-optimizer]] | Manufacturing | 9 | 9 | 8 | **26** | 9 | 5 | 8 | **22** |
+| [[sports-coaching-ar-assistant]] | Sports & Athletics | 9 | 9 | 8 | **26** | 9 | 5 | 8 | **22** |
 | [[denim-wash-consistency]] | Manufacturing | 8 | 9 | 8 | **25** | 8 | 5 | 8 | **21** |
 | [[glove-seam-inspector]] | Manufacturing | 8 | 9 | 8 | **25** | 8 | 5 | 8 | **21** |
 | [[hazmat-spill-simulation]] | Manufacturing | 8 | 9 | 8 | **25** | 8 | 5 | 8 | **21** |

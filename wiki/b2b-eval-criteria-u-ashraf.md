@@ -1,6 +1,6 @@
 # B2B Evaluation Criteria — Technical/Engineering Perspective
 
-**Summary**: Engineering feasibility scoring framework for evaluating 72 B2B Spatial AI ideas from the perspective of an Associate AI Engineer. Reinterprets leadership's three required metrics (Idea Quality, Adoption, Moat) through a technical implementation lens — focusing on what can be built, deployed, and defended from an engineering standpoint.
+**Summary**: Engineering feasibility scoring framework for evaluating 73 B2B Spatial AI ideas from the perspective of an Associate AI Engineer. Reinterprets leadership's three required metrics (Idea Quality, Adoption, Moat) through a technical implementation lens — focusing on what can be built, deployed, and defended from an engineering standpoint.
 
 **Sources**: [[b2b-evaluation-criteria]], [[b2b-ideas-scoring-report]], problem statements from wiki/b2b-ideas/
 
@@ -93,7 +93,7 @@ These constraints should be evaluated for every idea regardless of category:
 
 ## How to Use This Framework
 
-1. For each of the 72 ideas in `wiki/b2b-ideas/`, read the problem statement
+1. For each of the 73 ideas in `wiki/b2b-ideas/`, read the problem statement
 2. Score each of the three metrics 1–10 using the guides above
 3. Use the **Key Engineering Questions** in each section as a checklist
 4. Flag any **Technical Constraints** that would block or severely limit the idea
@@ -101,7 +101,7 @@ These constraints should be evaluated for every idea regardless of category:
 
 ### Reference Existing Scores
 
-The existing [[b2b-ideas-scoring-report]] scores all 72 ideas on the same three metrics from a general business perspective. This technical framework is designed to produce an independent set of scores from the engineering viewpoint — the two may differ significantly. For example, an idea that scores high on business "Adoption" may score low on technical "Adoption" if it requires hardware not available in-market.
+The existing [[b2b-ideas-scoring-report]] scores all 73 ideas on the same three metrics from a general business perspective. This technical framework is designed to produce an independent set of scores from the engineering viewpoint — the two may differ significantly. For example, an idea that scores high on business "Adoption" may score low on technical "Adoption" if it requires hardware not available in-market.
 
 ## Related Pages
 

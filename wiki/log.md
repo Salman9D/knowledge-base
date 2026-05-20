@@ -614,3 +614,36 @@ This ingestion completes the "why, what, how" package: problem definition (white
 
 **Summary**: Completed the full scoring pass across all 72 B2B Spatial AI problem statements. The manufacturing cluster (surgical-instrument-qc, glove-seam-inspector, sports-goods-stitching, sports-apparel-alignment, surgical-forging-assistant) emerges as the highest-concentration pilot opportunity — five high-scoring ideas in one geography that share a data collection infrastructure.
 
+---
+
+## 2026-05-20 — New B2B Idea Added + Scored (Pass 17) — U. Athar / Claude Code
+
+**Operation**: Created the 73rd B2B problem statement and scored it across all four evaluator frameworks.
+
+**Pages created (1)**:
+- `wiki/b2b-ideas/sports-coaching-ar-assistant.md` — Coach wears AR smart glasses to monitor all athletes in real-time with biomechanical overlays (running pace, stride angles, joint mechanics, fatigue markers, tactical spacing). Sector: Sports & Athletics. Moat built on longitudinal player-level biomechanical data and coach workflow lock-in.
+
+**Pages modified (12)**:
+- `wiki/index.md` — Updated idea count 72 → 73; added [[sports-coaching-ar-assistant]] entry; updated last-updated date to 2026-05-20.
+- `wiki/pakistan-b2b-ideas-database.md` — Updated idea count 72 → 73 in summary; added new "Sports & Athletics" sector section with sports-coaching-ar-assistant row.
+- `wiki/b2b-eval-criteria-u-ashraf.md` — Updated idea count 72 → 73 in three places.
+- `wiki/b2b-eval-criteria-u-athar.md` — Updated idea count 72 → 73 in three places.
+- `wiki/b2b-scoring-raza.md` — Added sports-coaching-ar-assistant at L.Total=26 / G.Total=22 tier (L: Q=9, M=9, A=8; G: Q=9, M=5, A=8).
+- `wiki/b2b-scoring-salman.md` — Updated idea count 72 → 73; added new "Sports & Athletics" section with Q=9/A=8/M=9=26; inserted at rank 9 in Top 11 Global Opportunities.
+- `wiki/b2b-scoring-u-ashraf.md` — Updated idea count 72 → 73; added Q=8/A=8/M=9=25 row alphabetically between sports-apparel-alignment and sports-goods-stitching.
+- `wiki/b2b-scoring-u-athar.md` — Updated idea count 72 → 73; inserted as row #61 (alphabetically between sports-apparel and sports-goods) in summary table and detailed entries; renumbered old rows 61-72 to 62-73. Scores: Q=8/A=8/M=9=25. Four-Property Filter: Vertical=Strong, Data Moat=Strong, Regional=Partial, Two-Pronged=Strong.
+- `wiki/b2b-scoring-averaged.md` — Inserted at rank 6 (Avg Q=8.50, Avg A=8.00, Avg M=8.50, Avg Total=25.00); renumbered old ranks 6-72 to 7-73.
+- `wiki/log.md` — This entry.
+
+**Final scores**:
+| Evaluator | Q | A | M | Total |
+|-----------|---|---|---|-------|
+| Raza Local | 9 | 8 | 9 | 26 |
+| Raza Global | 9 | 8 | 5 | 22 |
+| Salman | 9 | 8 | 9 | 26 |
+| u-ashraf | 8 | 8 | 9 | 25 |
+| u-athar | 8 | 8 | 9 | 25 |
+| **Averaged** | **8.50** | **8.00** | **8.50** | **25.00** |
+
+**Summary**: Added the sports coaching AR assistant as idea #73 and scored it across all four evaluation frameworks. Final averaged rank: #6 of 73. The idea targets a coach wearing smart glasses to receive real-time per-athlete biomechanical overlays during live practice — addressing the universal coaching blindspot of monitoring multiple athletes simultaneously. Applicable to cricket, football, hockey, athletics, and combat sports. Moat is longitudinal player-level data plus coach workflow lock-in; entry SKU via fixed-camera tablet mode reduces hardware adoption friction.
+

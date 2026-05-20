@@ -1,6 +1,6 @@
 # Pakistan B2B Ideas Database
 
-**Summary**: A central "base" for tracking and comparing 72 B2B Spatial AI ideas for the Pakistani market across multiple phases of research.
+**Summary**: A central "base" for tracking and comparing 73 B2B Spatial AI ideas for the Pakistani market across multiple phases of research.
 
 **Note**: This table is a manual "base" view. In Obsidian, you can also use the **Dataview** plugin to query these pages automatically.
 
@@ -111,6 +111,11 @@
 | [[classroom-tutor-spatial\|Classroom Tutor: Spatial Learning]] | Education & Social | Nationwide | 8 | 7 | 7 | Draft |
 | [[crime-scene-reconstruction\|Crime Scene Reconstruction]] | Education & Social | National | 8 | 7 | 8 | Draft |
 | [[vocational-ar-training\|Simulation Platform for Industrial Training]] | Education & Social | National | 8 | 7 | 8 | Draft |
+
+### Sports & Athletics
+| Idea | Sector | Target City | Quality | Adoption | Moat | Status |
+| :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+| [[sports-coaching-ar-assistant\|AR Sports Coaching & Athlete Performance Intelligence]] | Sports & Athletics | National | 8 | 7 | 8 | Draft |
 
 ---
 

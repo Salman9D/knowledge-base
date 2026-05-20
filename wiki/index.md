@@ -2,7 +2,7 @@
 
 **Purpose**: Structured knowledge base for evaluating the AR/VR/XR space to inform strategy for Imagination AI and 9D Technologies, both building a Spatial AI Assistant.
 
-**Last updated**: 2026-05-15 (pass 10 — B2B Evaluation Criteria SK Global)
+**Last updated**: 2026-05-20 (pass 17 — Added sports-coaching-ar-assistant, idea #73)
 
 ---
 
@@ -12,13 +12,13 @@
 |------|-------------|
 | [[pakistan-adoption-and-moat-analysis]] | Deep dive into Pakistani market constraints (hardware, connectivity, literacy) and MOAT strategies |
 | [[pakistan-b2b-ideas-database]] | Central "base" for tracking and comparing 40 localized B2B Spatial AI ideas |
-| [[b2b-scoring-salman-sk]] | Central "base" for tracking 72 B2B ideas scored for global market potential — all-market (SK) focus |
+| [[b2b-scoring-salman-sk]] | Central "base" for tracking 73 B2B ideas scored for global market potential — all-market (SK) focus |
 | [[pakistan-b2b-ideas-20]] | 20 localized B2B Spatial AI ideas scored for the Pakistani market based on May 07 constraints |
 | [[spatial-ai-sync-2026-05-07]] | May 07 strategy sync: pivot to vertical B2B, MOAT through industry penetration, tablet-first strategy |
 | [[b2b-evaluation-criteria]] | Framework for scoring B2B ideas: technical competence, market size, industry willingness, Big Tech avoidance |
 <<<<<<< HEAD
-| [[b2b-evaluation-criteria-technical]] | Engineering feasibility scoring for 72 B2B Spatial AI ideas — technical lens on Quality, Adoption, Moat |
-| [[b2b-scoring-technical]] | Technical engineering scoring of 72 B2B Spatial AI ideas |
+| [[b2b-evaluation-criteria-technical]] | Engineering feasibility scoring for 73 B2B Spatial AI ideas — technical lens on Quality, Adoption, Moat |
+| [[b2b-scoring-technical]] | Technical engineering scoring of 73 B2B Spatial AI ideas |
 =======
 | [[b2b-eval-criteria-salman]] | Expanded global-market framework incorporating Spatial AI Venture Evaluation Framework — all-market (global) focus |
 | [[b2b-eval-criteria-L-raza]] | Brainstorm of Pakistan-specific B2B limitations: corruption, secrecy, infrastructure, and 'leapfrog' opportunities |
@@ -38,8 +38,9 @@
 
 - [[b2b-eval-criteria-u-ashraf]]
 - [[b2b-scoring-u-ashraf]]
-- [[b2b-eval-criteria-u-athar]] — Evaluation framework for the 72 B2B ideas: vertical specificity, data moat, regional leverage, two-pronged vector; includes 1–10 rubrics for Quality/Adoption/Moat, four-property filter, disqualifiers, and scoring worksheet
-- [[b2b-scoring-u-athar]] — Scored evaluation of all 72 B2B Spatial AI problem statements using [[b2b-eval-criteria-u-athar]]; includes summary table, per-idea detailed scores, top 15 ranked ideas, and deprioritize list
+- [[b2b-eval-criteria-u-athar]] — Evaluation framework for the 73 B2B ideas: vertical specificity, data moat, regional leverage, two-pronged vector; includes 1–10 rubrics for Quality/Adoption/Moat, four-property filter, disqualifiers, and scoring worksheet
+- [[b2b-scoring-u-athar]] — Scored evaluation of all 73 B2B Spatial AI problem statements using [[b2b-eval-criteria-u-athar]]; includes summary table, per-idea detailed scores, top 15 ranked ideas, and deprioritize list
+- [[sports-coaching-ar-assistant]] — AR-powered sports coaching assistant: real-time biomechanical overlays for coaches, player pace/angle/fatigue tracking, sport-specific moat via longitudinal player data
 
 ## Market Segments
 
