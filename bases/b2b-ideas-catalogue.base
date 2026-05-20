@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.folder == "wiki/b2b-ideas"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - adoption
+      - moat
+      - quality
+      - sector
+      - status
+      - target_city
+    columnSize:
+      file.name: 208
+      note.adoption: 50
+      note.moat: 62
+      note.quality: 54

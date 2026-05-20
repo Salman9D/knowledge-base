@@ -1,0 +1,170 @@
+Spatial AI Synch - May 07
+VIEW RECORDING - 48 mins (No highlights): https://fathom.video/share/dZ5ENya5vdmxD2RCJ_qmj_fysHnGUvz8
+
+---
+
+0:00 - Usama Athar
+  Yeah, that's vision-based. The modality, when there something there will something else. But again, what we are interested in, one is that we will an application source code in which we will try out.
+
+0:14 - Salman Khan
+  The other way, we will add on to this model and fine-tune.
+
+0:21 - Usama Athar
+  And the other thing, the other thing we are interested in, again, is that it build real-time and how we-device.
+  ACTION ITEM: Share iOS image-to-text demo app/code w/ Usama Athar + Raza - WATCH: https://fathom.video/share/dZ5ENya5vdmxD2RCJ_qmj_fysHnGUvz8?timestamp=26.9999
+
+0:32 - Raza Butt (Hazel Mobile)
+  Hello everyone, we are talking about this. Thank you. you.
+
+0:37 - Salman Khan
+  This is an application, I will share it with So, it's on-device and it's called image to text description. So, when you move your camera in real-time, it will tell you what is happening and what is happening description.
+
+0:57 - Raza Butt (Hazel Mobile)
+  And the latency is a lot of...
+
+1:00 - Salman Khan
+  Yeah, because it's on-device, it's near-to-zero latency.
+
+1:06 - Usama Athar
+  So, an app or source code made?
+
+1:11 - Salman Khan
+  So, this app, it's only for iOS, but it's Android 4D.
+
+1:25 - Usama Athar
+  Basically, there 3 workflows. Image generation, image understanding, image editing. So, and editing, we've been very interested in Image understanding, which is the workflow, what is the workflow?
+
+1:41 - Raza Butt (Hazel Mobile)
+  That's right, right.
+
+1:45 - Usama Athar
+  So, I was thinking about the When I was looking, like, my search, I'm asking for problems, and the problems, things, was asking for a so, an app or something, to me to then meet you.  Thank Let's imagine some managerial role Or can see Tablets are already in use And other organizations Different institutions Have issued staff Tablets issue So if we Like Which problem we can identify If we go smart classes And headsets Obviously But if we tablet First Then we can Fight the yoga Come in
+
+3:15 - Raza Butt (Hazel Mobile)
+  Okay, I understand the concept, So, I'm thinking about, right? So, what I'm thinking concept of B2C, I told you to B2C.  If the market is small, it will small. So, it's not small chunk. I understand all of that. I understand all Now, B2B,  one primary concern was the MOT concept of what is the defensive structure around whatever we are making for us.  So the defensive structure is the starting point of MOT, data, technology, or whatever. Now we don't anything, so we'll explore it obviously.  But moving forward, whenever we are researching something, I believe that if we give the Curie in a way to LLM or whatever, that we design two B2B solutions, then the answers were very different as opposed to what can be done and what should be done.  So one thing I saw in my testing with LLM. The other thing I saw was that obviously, there is a force of the horizon Horizon, which is a racing game in Japan.  So the team is going to Japan 5 years to make a So now we're going We are not able Whatever the budget constraints are.  So the thing is this, that we have constraints on local market. When I explored local market, problem is threefold.  Number one, local market needs new technology. There is an opinion. Number two, who needs new technology, who wants money.  Number three, they need identify problems. They their as an industry. Let's say textile industry, dentistry, medicine. Whatever you pick in industry, they don't problems and statements.  And the big companies, let's suppose if I talk about medicine, GSK, GlaxoSmithKline, Abbott, etc. The big giants and multinational companies.  They don't have access things. has closed source, they will not success. And the LLM has that they would not entertain you to an extent.  will not entertain trading. You Thank Okay, now the problem statement is in B2B, then it comes to our constraints, we need a mode, number one, we need industry penetration, we need to problems, and then need understand them, and then we need a foot in the door, we need our 4 devices, and we need them to test them, so we need to allow them to So which industry is the we need small industries, which is need to industry and industry.  Okay? Now, the problem comes from here, which I found, is that, who to contact, which industry to target, and the problem, we need to understand them, and we need pitch them.  So So So let's suppose a medicine company is a very specific chemical formula that has made medicine, right? So the manufacturing plant, the person who is manufacturing, the mixer, the mixer, whatever.  That is one application where there an error where there is a batch, there is quantity open. So you can tell them that you will camera, you will classes, you will to help.  This is one of the biggest constraints is a device, okay? So the smart glasses is a pitch, it be hands-free.  That is the most essential use case of a smart glass. As opposed to smartphone or tablet. Because it will be in hand.  So whenever you are looking. use So thinking in Something through something. Like, if you your face-to-face world, your phone, tablet, screen, then you can an image within image, picture-in-picture concept, you can change the chances of That is how the human psychology works.  then, perceived as distant. Whatever those concerns are. Now, in all the dilemmas, I was confused. So, I am going share this So, I had to with you.  don't know if you have any the movies, but I don't This a movie The The movie called The Internet.  It's a good concept. the main thing is This is just a hypothetical thing that we are just thinking the brain that we can create and around it will a different structure.  Then comes the hard part, which we actually have made POC and convince people that they to the data or experiment.  That is, I don't know, literally, I have no idea about all of this industry for manufacturing, construction. Whatever, which is a crore industry.  Now, I think this is why Moeze bhai also said that you have to time and time. Because when you think hard enough, people can understand and entertain them.  Or can get permits. In Pakistan, is the same scenario Rishwat. When you dive into it, it has a lot of problems associated with it in terms of literacy rate, understanding.  at just a different So this is what I have done so far.
+
+10:17 - Usama Athar
+  So this is what I have done far. So this what I have done so far. We will connect. We will obviously.  It's accurate in terms of analysis. Local industry in terms of has been reduced both in terms of that people don't want to And if someone wants to do they give us access to that.  But I think that we don't how to do it. Obviously these challenges are, key challenges are. We But in the beginning, at least, we can mitigate some of these What we're saying is that if we let's say, for example, we go into a partnership and we say that we use this time to this time, and they will come back to us by themselves.  And the other thing is use tablets and files. Smart, Smartphones के case में, वो बिल्कल आपके कहते हैं के, Smart Glasses के वैसे हैं, Hand-Streak हो जाएगी चीज़, दूसरा ये भी कि, Smart Glasses, उसका inherent usage, इस तरह होता है के, It feels much more, I can say, much more immersive लगेगा, obviously, as compared to, क्या TabRap के तुछ देख रही हैं, I think I was surprised to see that there are ideas which are because obviously it's the same kind of  So I was just talking about the same thing. Overlap, it is a good thing in a way. So I was quickly making documents that I was quickly sharing.  I created one-pages, and now I share that with my screen share. just to show that ideas are coming I've talked about the ideas that like construction industry factory warehouse management data center management etc or high stake environment or to to
+  ACTION ITEM: Collect 15–20 B2B AR/VR ideas from Usama Athar + Salman; consolidate - WATCH: https://fathom.video/share/dZ5ENya5vdmxD2RCJ_qmj_fysHnGUvz8?timestamp=841.9999
+
+14:12 - Raza Butt (Hazel Mobile)
+  So if you have 10 ideas, perfect. If I have 20 ideas, best. Salman has 10 ideas, 20 ideas, all the best.  What we need to identify today or maybe within this week is that what can have problems, like we can have mort, an industry penetration, a willingness of people.  So what we can say, we document problem statements and scenarios, they document don't to deal with don't with So we will do that as many ideas, we will discuss them through LLM and after that, that the Osama, Raza, 15 ideas, Salman, 20 ideas, how much they become viable.  And let's say we give it a score or something. So we will discuss the LLM, and will debate the agents through.  This is how I think we should proceed. What do you say?
+
+15:38 - Usama Athar
+  This how I think we What do you say? So after that, a short list. This is a good idea.  We will score the individual levels to the full list. We will score. We will . Like, we are based on all the criteria's which we have decided debriefing, then we have the best and promising idea.  And then we can average out the scoring, which we can do, so we can do good, bias-free way. to careful, I a few things will lot easier for ...  ...
+
+16:47 - Salman Khan
+  foreign B2B, or any kind of issues we solve. Now, we don't kind ideas, which are already the big companies like Google, Meta, they creating.  Because, to be very honest, we never compete Google or Meta. So, the project tester is creating an assistant, so we can never create an assistant.  They have their own Gemini, they have their own resources, so we can never create that. Rameel's team has created AI game studio.  It's about two years, I think it will be made. And before the release, Unity 6 has launched AI, which you have created, code, all the things you do.  And it's only 10 bucks per month, I guess. So, we have to filter out these and think we use this, we can use this.  So, can use So we were working in VisionX, so we were working Staples, Staples, a retailer in US, a furniture retailer, so we had an AR, VR, app, where you can design your space in AR, or you can wander here and there in their showroom, so Staples' showroom is that our 90 office is 10x, so it's showroom.  And all the furniture and our office have designed it, so people just come in, they look at their office structure and keep it.  So the problem was that have to set headset and you to set the Walk here and there, you put on a headset, and then you buy it.  Okay, so we released staples, staples, our client, we released it. When it was released, it was just a fancy gadget for the consumers, for the staples.  They just saw it, they just it was just a fancy gadget. Then, IKEA, IKEA, IKEA, IKEA, has same, that IKEA is very well-branded in AR, VR.  But, if you look at that, you have a very narrow percentage of users, who use IKEA's AR, VR space, and some item purchase.  In AR, VR, it's a very good project. IKEA is leading the AR, VR in IKEA. But consumers, if you look look at IKEA, IKEA, is, where but IKEA,  So, the problem statement, which we use, it should be something, which we should do, which we use do. So, problem statement, which this, which we to do, not just consumers.  consumers will never adopt AR-VR. Jee Raza.
+
+20:52 - Raza Butt (Hazel Mobile)
+  Raza. Jee Raza. Jee Raza. that's defensive motivation. But couldn't users to B penetration on this trade carefully. But it so important, we realize that services are valuing and re eleurope, and therefore government to get than 2...  META, 그다음에, some other management In our technical review outs Time which families create and I we would, that is actually So we could get potential evaluations from these companies as well.  So if I this way, then there are many opportunities open to you. What do you think?
+
+21:44 - Salman Khan
+  I think that's same But we need to about the and those things. What is our problem statement? Meta, Google, acquired, what we will but there should be something viable that we have made, the problem statement we have solved.  So, I gave an example here, are building tool for two years. Unity 6 has been launched itself. So, we implementing problem-streatment, and we implementing year, and we know that at the end of the day, we example for Usama.  We are years, and we are an app, and we are building-to deployment. So, problem-streatment should be in a way, that we are building, and we are building app that and that doesn't exist.  Sorry.
+
+22:38 - Raza Butt (Hazel Mobile)
+  Agreed.
+
+22:42 - Usama Athar
+  So, when are looking at stream, The is being by We are looking at We can tell the you stream.  It is just a It's just a stream. Okay. How did I take it? So talking about a specific use case or problem that a big company would create a solution for that time and when it comes to our development is complete.  So that's a very vertical idea. So we were just talking about different A models. So we were just talking about a problem statement highly vertical.  So we were talking about different approach. So we were just talking about we were talking a specific data So  So we this time we are in specifically are in this are in this time just Pakistan specifically to be honest to be honest be honest he that you can you
+
+25:02 - Raza Butt (Hazel Mobile)
+  Just walk with me for a few steps, right? step 1, you have identified idea, whatever it is. It's a long step, it will 2-3 weeks, but let's say we have identified this.  Or we have identified ideas. Now we have developed that idea within 2 months, 3 months, whatever. Step 2, you have identified an 1, you have made it, 2, 3, Now we going test it, right?  need an application, need data gathering, you need a a base, which you need to optimize, bug fixes, whatever you want to do, right?  So you need a user base. Now that user base, realistically speaking, the company in America will send you to GSK.  Obviously, right? So you will the local market, who will facilitate this. So you might be calling a lot of companies to HR department, with some department to do manufacturing departments.  So might think that Free of cause, we have to switch. Now, these are 3 steps, naturally, you will be able to apply user base or an example scenario to create in Pakistan.  So, then, you be able to ask how to do Pakistan. Because I know for a fact that if you in a month or two or three people in month two in six months, that I know.  So, what is the scenario for you?
+
+26:35 - Salman Khan
+  So basically my understanding was the same. The idea is not specific to local region but we start with local.  So, if we make idea, then obviously for data testing and other things, we will start here. Because we can ask a lot of companies here.  And then if it's a viable product, then I think the latest. Structure would be, you know, then the rest of the companies approach.  But, yeah, for testing purposes, I think we will be starting from local. That's what I understand from movies point.
+
+27:09 - Usama Athar
+  Okay. And then, that the same thing, that the statement, that the two things addressed, that the capabilities that capabilities of that the capabilities of us, is a really important one.  Air overlay, special reasoning, that the capabilities of us can showcasing and commercially viable products. So, these the five things, which are based on this document.  Every problem statement is listed. We can extend them, and modify them. Sorry to interrupt you, Usama.
+
+27:51 - Raza Butt (Hazel Mobile)
+  I'll add one I think, in the last meeting, we couldn't do that in There is this. There is this.  Aspect, B2B, Problem Statement, Identification, Kya Maslaya, Kya Maslaya, Kya Solve, right? But there is a generic technical aspect of all of it, which we have built, nonetheless, which we have built, right?
+  ACTION ITEM: Consolidate B2B constraints/limitations into LLM Wiki; share w/ Usama Athar + Salman - WATCH: https://fathom.video/share/dZ5ENya5vdmxD2RCJ_qmj_fysHnGUvz8?timestamp=1694.9999  So, that technical aspect, which we have to any form, we do in form, right? So, our idea was that our next print will be a technical nature towards some development and stuff, but still, that R&D phase has delayed.  So, what I'm saying is this, that what we need to do is that we, again, mark a lot of stuff, points, which are our constraints, limitations, problems, okay?  They can be they can non-technical, they can be interpersonal, they can be communicational, they can acquiring a viable person or company, we can test, they be all So, there could be like a hundred different problems based on categories, right?  all take it, right? And then, what we do is, we do the... So of any idea based on all of them.  So that's why our technical competence, our limitation, market size, industry, whatever, it will cover all of Okay, so I share document with you.
+
+29:18 - Usama Athar
+  We don't to brainstorm about but just to like...
+
+29:26 - Salman Khan
+  Okay, so I would suggest that out of the box, these documents you have, these documents you you have, these documents you have.  We don't have to discuss one by one. But if I have to say, let's discuss one of the best ideas in documents, for example, on your side, or on Raza's side, or Usama's side.  So we can discuss idea. Out of the box, what's mind? Among these 10 ideas, this one is the more interesting.
+
+29:55 - Usama Athar
+  Yeah, so... Hmm, can only this in the box. it. So, Abir, obviously, I can't pin point that I can find interesting things.  By the way, these things that I had released, were about 30-35 classes, which I felt like it was something that it didn't have fun, or there were challenges that had to learn, that there will be huge challenges.  So, I have released This already a short-listed version of the list. So, for example, for example, there are three things that I felt today, the problem statement is genuine, even though there are things that we can commercial viable product.  So, first one was, maybe, utility, infrastructure, maintenance... you. So for example, I have a to add just to, so for example, what are the step-by-step, guides, follow-up, what are the hazards to keep in mind, another one which I really found interesting was this.  So basically, the rehabilitation programs for stroke and spinal cord injuries, is very you. Intensive, labor intensive in nature, because all the time you therapist, patient, in-person presence, or multiple sessions per week required.  So what if we have an AR, VR based experience, which any person has to go through they will have a kind of gamified experience.  They will have certain tasks, which will be designed mobility to improve the ability to design. So for example, the system has analysis and identified that this person's right elbow has no rehabilitation.  So for have to tasks, which we can activate, which we can activate. Thank So we can also full dashboard designed for the If the person is wearing some sort of additional sensors along with that, let's say, smart glasses or headset, we also have-time data gathered on the data data.  It's huge idea. difference. This a a big difference. It's like the countries in we have in production of indigenous countries.  For example, Pakistan or India. Thank you very much. And these are all things like at the same time use or author, different scenarios.  So the maintenance of for that, AR, VR-based solutions, they very useful. And I also saw a video in U.S.  military is a U.S. military, but this is one of their high, highest, like, those use cases, which is maintenance training or guided repair.  So, this is the problem statement, this is the non-military side of that, which is our polytechnic institutes. We have courses, skills.  So talking about Lath's operations, Welding's, Machining's, Electrical's. are some modules that can designed a VR-based environment. The students' assessments can be used to to be to used to be used.  The students' processing are built and there are 200 people who have access to getmeets. Well, they will need to do better.  So for to have a good platform built. We like, what is your results?
+
+35:55 - Raza Butt (Hazel Mobile)
+  It's very important. of any problems or of any idea. So for example, let's suppose that you 4 or 10 things that have problems, like technical issues, market issues, industry, allowing, whatever issues, gadget issues, etc.  So for I also put it in the LLM Wiki, it create consolidated full 20, 30 problems. What do do?  Then we put our ideas through LLM or our agent through it. These are our ideas, these are problems. Based on the Pakistani market, search the web, etc.  Give a scoring out of 10. Then what we do is, you, Salman, Usama, Ashraf, and me, all of us, pick our best ideas, which will highest scoring.  If we get the highest scoring out of these 10, 20, 30, and those 5, 2, 3, 3, So we're about Fathom, Raza Raza Raza Raza Raza Butt, Raza Butt, Raza Butt.
+
+37:46 - Usama Athar
+  I think the more the better, but obviously the idea is so reliable that we can back it. And my number is at least 3 but no more.
+
+38:00 - Raza Butt (Hazel Mobile)
+  More than 5.
+
+38:31 - Usama Athar
+  Just as a back-up.
+
+38:33 - Raza Butt (Hazel Mobile)
+  We'll That's right.
+
+38:42 - Usama Athar
+  Just, if we have big problems in our mind, challenges, sorry, problems, which we can answer, what are we? One of reasons why we are talking about acceptance is not B2B market.  Other than not for local market specifically. एक तो यह हो गया. इसके अलावे क्यातर?
+
+39:09 - Raza Butt (Hazel Mobile)
+  यार इसके अधर हमारे पाश यह है we acceptance है. दूसरा यह है के their willingness to allow us to actually do that, right?  तो एक तो यह है के IKEA ने तो का की करदो और कर आभी दिया. पर लोग use निकरे.  So that is the willingness part. But IKEA ने अलाव ही नहीं किया. That is a different part. ھیک ہے اس کے علاوہ جو دوسرے ایسپیکٹس تھے وہ تھے ٹھیکنیکل ہی نیچر تھے پھر ہمارا جو سکوپ ہے ھیک ہے یہ بھی ہمارا لیمیٹیشن ہے اس سپوز جیسی بھی آپ نے لکھا تھا نیکلر سائٹ کی وہ جو بھی ڈی کمیشننگ ہے تو وہ ایک ہائیلی سنسٹیف پارٹ ہے ٹھیک ہے تو وہ اس کی ڈیفکلٹی اتنی زیادہ ہے یا اس کی ایکسس لیویل اتنا زیادہ ہے کہ شاید وہ وائبل ہی نہیں رہے گا but it would be but let's suppose that can access to it.  So, if you want to sensitive things, for example, The of medical nature is is the medical nature of the limbs, so that is something that is doable.  But if it is related to heart and arteries, so maybe it is sensitive to doctors willing. So that's why I'm saying that I need some time to list these limitations.  Okay.
+
+40:20 - Usama Athar
+  I just have a list of documents that you can share with me. So I have a you can list.  And if there are other criteria that we need to write here or modify them, please feel free to do that.  Okay.
+
+40:45 - Raza Butt (Hazel Mobile)
+  How I'm thinking about it is that we just take over three times today, tomorrow. We'll list these things down.  We'll list our ideas down. We might even take Monday to consolidate and run cloud and discuss it us. And then we narrow it down to some pointers or some ideas, which we think is most probable.  And if all the circles are overlapped, then we have those ideas that we are making. So by natural, we will able to get there.  If we don't overlap, then we will critical discussion about why and why not and whatever. Let's say Salman is saying we should do this, Raza is saying we should do this.  We don't overlap, we distinct circles. So, pros and cons discuss and discuss those points. LLM is saying human thoughts and we will lock 4-3-4 and then we will thoroughly evaluate and dig deeper in that in that in the next week.  And the following week, how about that? Let's try.
+
+41:49 - Salman Khan
+  I think with that, we should another list, where we can discuss number of business. It shouldn't be AR-VR, but what are  The businesses that are in the world, like construction, medical, military, so we have a little bit of business that I in and down, so it will little easier for us to do something in the AR, VR, or not.  Because out of the box, if I am in medical, military, and construction.
+
+42:29 - Usama Athar
+  It would be a better thing.
+
+42:36 - Raza Butt (Hazel Mobile)
+  I don't know. Short stories, I don't I don't know. that they can see the value of the product. So, if you pawn shop, you can see that there fake items but there are fake items.  Actually, items bhi padi hoti hain, dhynki value bhoot zhaada hai. So we have a lot of businesses are there, so we shops, big shops, we can go to industry, I agree with you.
+
+43:15 - Usama Athar
+  Okay, so we have idea that we have discussed the club and with Salman, just as a pointer, can share that with That the right assistant idea.  So when we came a meeting, I was just thinking that around that B2B can a B2B which is an AR-VR-based solution, which is a mass-scale kitchens operate on the such as hospital kitchens, or big restaurants, which are kitchens, that can be solutions.  Ya, koi bhi fast-paced environment, johan par kama ho rara ho hain, do we do? So what do we description.  So we were just talking about Fathom, Raza, HazelMine, a industrial setting. So there is also a fast-paced, large-scale, example, in my mind.  So there is also lot of Yes, Usama. Yes, Usama, I have a question.
+
+44:25 - Usama Ashraf
+  foreign foreign foreign foreign foreign Yes, I have made document that has been made the that have been identified. Yeah, we'll do again, so we'll give it a whole document on Wiki, LLM.
+
+45:08 - Usama Athar
+  Yeah, I've also shared the Fathom too, I've also invited you to the PDA portion. Yeah, and we didn't discuss anything about Okay, was asked for Salman, did you get access to Yeah, Cloud can access, but I don't know, when I'm doing it, I'm going to log out, so I'm going check it Fun fact is that Cloud has its side limits.
+
+45:44 - Raza Butt (Hazel Mobile)
+  SpaceX has its side limits. Nice.
+
+45:49 - Usama Athar
+  Can we reflect here?
+
+45:53 - Raza Butt (Hazel Mobile)
+  Yes, to use Opus yesterday. So we had two problems. So tomorrow, 10-15. I'm going to get back I was like really amazed.  So, now you can see SpaceX and Cloud, you can find Google. Usama, not sure.
+
+46:10 - Salman Khan
+  I'm not sure. I'm not sure. I'm not sure.
+
+46:15 - Raza Butt (Hazel Mobile)
+  I'm not sure.
+  ACTION ITEM: Send Claude login to Usama Athar; then Usama Athar share personal email for verification - WATCH: https://fathom.video/share/dZ5ENya5vdmxD2RCJ_qmj_fysHnGUvz8?timestamp=2789.9999
+
+46:24 - Usama Athar
+  I'm not sure. I'm not sure. is email. I'm not Dreamers.
+
+46:40 - Salman Khan
+  I can send you a mail.
+
+46:43 - Usama Athar
+  I'm not sure. send me a login.
+
+46:46 - Salman Khan
+  If you do, you must me verification code.
+
+46:49 - Usama Athar
+  I will a personal email. It is necessary for If you not, you may ping for me. Thank you very much.
+
+47:10 - Raza Butt (Hazel Mobile)
+  Okay guys, now we have our summary, we have our problems, we our ideas, we also our against today's agenda.  will have a curated set of ideas evaluated on the score premise. Most probably Tuesday, we a long discussion on that.  So this is the agenda so far, necessary. Agreed? Yep. See you guys. Thank you so much. Best. See you guys.  Okay.

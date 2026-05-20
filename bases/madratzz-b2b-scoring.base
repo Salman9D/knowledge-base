@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.folder == "wiki/b2b-ideas"
+views:
+  - type: table
+    name: Madratzz Scoring Matrix
+    order:
+      - file.link
+      - sector
+      - quality
+      - moat
+      - adoption
+      - status
+      - target_city
+    columnSize:
+      file.link: 250
+      note.sector: 150
+      note.quality: 60
+      note.moat: 60
+      note.adoption: 60
+      note.status: 100
+      note.target_city: 120
