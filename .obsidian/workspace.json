@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "4b258087ddfcdebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "36565b417461e687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7647c435c0e3d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/embodiedscan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "embodiedscan"
+            }
+          },
+          {
+            "id": "c05d4f677bc1bb83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/genai-animation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "genai-animation"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db3292de7ae3b06e",
+    "type": "split",
+    "children": [
+      {
+        "id": "79c89ddc4c925569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3adfdd036c72d58d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b2715223a91d92cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59038e8c3b2d24f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "b8f6bca553eec374",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7dff6f750cbf75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c03d8c6b8bd6affe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/genai-animation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for genai-animation"
+            }
+          },
+          {
+            "id": "006cc3e512ec2bae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/genai-animation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from genai-animation"
+            }
+          },
+          {
+            "id": "e1939dcff78123c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "497041d05860a0e3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9d5578e3b85fcf40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/genai-animation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of genai-animation"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c05d4f677bc1bb83",
+  "lastOpenFiles": [
+    "wiki/embodiedscan.md",
+    "wiki/genai-animation.md",
+    "wiki/index.md",
+    "CLAUDE.md",
+    "README.md",
+    "Excalidraw/Drawing 2026-06-10 00.43.22.excalidraw.md",
+    "Excalidraw",
+    "wiki/log.md",
+    "wiki/b2b-evaluation-criteria-Usama_Ashraf.md",
+    "wiki/leo.md",
+    "wiki/b2b-scoring-Usama_Ashraf.md",
+    "wiki/b2b-ideas/Untitled.md",
+    "wiki/b2b-ideas-scoring-report.md",
+    "unique_modified_files.txt",
+    "all_committed_files.txt",
+    "wiki/madratzz-b2b-scoring.md",
+    "wiki/global-b2b-ideas-database.md",
+    "wiki/b2b-scoring-madratzz-local.md",
+    "wiki/b2b-scoring-madratzz-global.md",
+    "wiki/b2b-evaluation-criteria-sk.md",
+    "wiki/b2b-criteria-madratzz-local.md",
+    "wiki/b2b-criteria-madratzz-global.md",
+    "bases/madratzz-b2b-scoring.base",
+    "bases/b2b-ideas-catalogue.base",
+    "bases",
+    "b2b-evaluation-criteria-technical.md",
+    "wiki/b2b-evaluation-criteria.md",
+    "app-ai-helper-module-obsedian-ar-vr-research/raw/s12909-025-07402-5.pdf",
+    "app-ai-helper-module-obsedian-ar-vr-research/raw/s12909-024-06402-1.pdf",
+    "app-ai-helper-module-obsedian-ar-vr-research/raw/papers/WorldGPT Empowering LLM as Multimodal World Model.pdf",
+    "app-ai-helper-module-obsedian-ar-vr-research/raw/papers/SplaTAM Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM.pdf",
+    "app-ai-helper-module-obsedian-ar-vr-research/raw/discord-daily-summaries/2026-04-24-ar-vr-xr-landscape-summary.md",
+    "app-ai-helper-module-obsedian-ar-vr-research/raw/discord-daily-summaries/2026-04-23-ar-vr-xr-landscape-summary.md",
+    "app-ai-helper-module-obsedian-ar-vr-research/raw/discord-daily-summaries/2026-04-22-ar-vr-xr-landscape-summary.md",
+    "app-ai-helper-module-obsedian-ar-vr-research/raw/discord-daily-summaries/2026-04-21-ar-vr-xr-landscape-summary.md",
+    "app-ai-helper-module-obsedian-ar-vr-research/raw/discord-daily-summaries/2026-04-20-ar-vr-xr-landscape-summary.md",
+    "app-ai-helper-module-obsedian-ar-vr-research/attachments/b2b-problem-statements/problem_9_img2.jpeg",
+    "app-ai-helper-module-obsedian-ar-vr-research/attachments/b2b-problem-statements/problem_9_img1.jpeg",
+    "app-ai-helper-module-obsedian-ar-vr-research/attachments/b2b-problem-statements/problem_8_img2.jpeg",
+    "app-ai-helper-module-obsedian-ar-vr-research/attachments/b2b-problem-statements/problem_8_img1.jpeg",
+    "app-ai-helper-module-obsedian-ar-vr-research/attachments/b2b-problem-statements/problem_7_img2.jpeg",
+    "app-ai-helper-module-obsedian-ar-vr-research/attachments/b2b-problem-statements/problem_7_img1.jpeg",
+    "app-ai-helper-module-obsedian-ar-vr-research/attachments/b2b-problem-statements/problem_6_img2.jpeg",
+    "app-ai-helper-module-obsedian-ar-vr-research/attachments/b2b-problem-statements/problem_6_img1.jpeg",
+    "app-ai-helper-module-obsedian-ar-vr-research/attachments/b2b-problem-statements/problem_5_img2.jpeg",
+    "app-ai-helper-module-obsedian-ar-vr-research/attachments/b2b-problem-statements/problem_17_img2.jpeg"
+  ]
+}
